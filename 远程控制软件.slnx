@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="client/client.vcxproj" />
-  <Project Path="远程控制软件/远程控制软件.vcxproj" />
+  <Project Path="client/client.vcxproj" Id="e0a333fa-d9e6-4455-bb08-465ccf27e998" />
+  <Project Path="远程控制软件/远程控制软件.vcxproj" Id="0a3a2f63-d550-4053-b40c-da3357479b2d" />
 </Solution>
