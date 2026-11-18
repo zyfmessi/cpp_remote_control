@@ -1,4 +1,4 @@
-# cpp_remote_control：C++ 远程控制项目
+#C++ 远程控制项目
 
 这是一个基于 **C++20、Windows API 和 Winsock2** 的远程控制学习项目，采用客户端—服务端（Client–Server）架构。目前主要用于实践 TCP Socket 通信、应用层数据包封装、屏幕截图和远程指令处理的基本流程。
 
